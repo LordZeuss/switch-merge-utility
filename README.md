@@ -15,8 +15,9 @@ This is a graphical program (written in Rust) designed to handle that process fo
 Current supported operating system(s):
 
 * MacOS (Silicon)
+* Linux
 
-**NOTE: There will be Windows & Linux builds pushed this week. Working out the kinks**
+**NOTE: There will be a Windows build pushed this week. Working out the kinks**
 
 ---
 
