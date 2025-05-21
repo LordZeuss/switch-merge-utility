@@ -1,0 +1,11 @@
+/Users/cody/switch-merge-utility/target/release/deps/libanstyle_parse-1a2864c01a8c0cbe.rmeta: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/params.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/mod.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/definitions.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/table.rs
+
+/Users/cody/switch-merge-utility/target/release/deps/libanstyle_parse-1a2864c01a8c0cbe.rlib: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/params.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/mod.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/definitions.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/table.rs
+
+/Users/cody/switch-merge-utility/target/release/deps/anstyle_parse-1a2864c01a8c0cbe.d: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/params.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/mod.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/definitions.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/table.rs
+
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/lib.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/params.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/mod.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/definitions.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-parse-0.2.5/src/state/table.rs:

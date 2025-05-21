@@ -78,12 +78,18 @@ The program will say "Finished!" when completed, and the file will be in the sam
 There is no need to add .nsp or .xci when entering the name, as the program will do this for you.
 
 ### NSZ/XCZ/NCZ Decompression Guide
-*My program is using this software: https://github.com/nicoboss/nsz*
 
-Move your prod.keys into the main directory of the project.
+On MacOS, you will need to place the prod.key in your home directory, in a .switch directory.
 
-Select your NSZ/XCZ/NCZ files using the GUI and select Decompress. This will decompress those files for you.
+It will look like this:
 
+/Users/MY_USERNAME_HERE/.switch/prod.keys
+
+Without the prod.keys, you cannot decompress NSZ files.
+
+NSZ decompressor is the https://github.com/nicoboss/nsz utility compiled to a portable binary with pyinstaller. All credit goes to them for creating this tool.
+
+You will need the _internal directory and the NSZ file in the same directory as the program in order for it to work.
 ---
 
 ## FAQ

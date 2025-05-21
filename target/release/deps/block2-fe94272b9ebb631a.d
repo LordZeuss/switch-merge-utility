@@ -1,0 +1,12 @@
+/Users/cody/switch-merge-utility/target/release/deps/libblock2-fe94272b9ebb631a.rmeta: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/block.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/concrete_block.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/debug.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/global.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/rc_block.rs
+
+/Users/cody/switch-merge-utility/target/release/deps/libblock2-fe94272b9ebb631a.rlib: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/block.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/concrete_block.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/debug.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/global.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/rc_block.rs
+
+/Users/cody/switch-merge-utility/target/release/deps/block2-fe94272b9ebb631a.d: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/block.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/concrete_block.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/debug.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/global.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/rc_block.rs
+
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/lib.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/block.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/concrete_block.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/debug.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/global.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/rc_block.rs:

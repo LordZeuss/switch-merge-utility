@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/cody/switch-merge-utility/target/release/build/mime_guess2-8295a2be1c370672/out/mime_types_generated.rs

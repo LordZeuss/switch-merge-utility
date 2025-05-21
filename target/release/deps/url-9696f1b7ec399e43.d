@@ -1,0 +1,13 @@
+/Users/cody/switch-merge-utility/target/release/deps/liburl-9696f1b7ec399e43.rmeta: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/host.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/origin.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/parser.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/path_segments.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/slicing.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/quirks.rs
+
+/Users/cody/switch-merge-utility/target/release/deps/liburl-9696f1b7ec399e43.rlib: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/host.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/origin.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/parser.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/path_segments.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/slicing.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/quirks.rs
+
+/Users/cody/switch-merge-utility/target/release/deps/url-9696f1b7ec399e43.d: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/host.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/origin.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/parser.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/path_segments.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/slicing.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/quirks.rs
+
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/lib.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/host.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/origin.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/parser.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/path_segments.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/slicing.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.2/src/quirks.rs:
