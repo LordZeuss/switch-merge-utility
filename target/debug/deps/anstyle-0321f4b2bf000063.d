@@ -1,0 +1,12 @@
+/Users/cody/switch-merge-utility/target/debug/deps/libanstyle-0321f4b2bf000063.rmeta: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/macros.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/color.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/effect.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/reset.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/style.rs
+
+/Users/cody/switch-merge-utility/target/debug/deps/libanstyle-0321f4b2bf000063.rlib: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/macros.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/color.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/effect.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/reset.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/style.rs
+
+/Users/cody/switch-merge-utility/target/debug/deps/anstyle-0321f4b2bf000063.d: /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/lib.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/macros.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/color.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/effect.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/reset.rs /Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/style.rs
+
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/lib.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/macros.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/color.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/effect.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/reset.rs:
+/Users/cody/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/style.rs:

@@ -154,10 +154,10 @@ impl eframe::App for MyApp {
             ui.separator();
             ui.add_space(5.0);
             ui.horizontal(|ui| {
-                ui.label(RichText::new("NSZ File Decompression").font(FontId::proportional(20.0)));
+                ui.label(RichText::new("NSZ/XCZ/NCZ File Decompression").font(FontId::proportional(20.0)));
             });
             ui.add_space(5.0);
-            let response = ui.button("NSZ Decompression Guide");
+            let response = ui.button("NSZ/XCZ/NCZ Decompression Guide");
             let popup_id = Id::new("root_details");
 
             if response.clicked() {
@@ -171,26 +171,26 @@ impl eframe::App for MyApp {
                 PopupCloseBehavior::CloseOnClickOutside,
                 |ui| {
                     ui.set_min_width(500.0);
-                    ui.label(RichText::new("Click the 'Select Game Files' button and select the NSZ files. YOU CAN ONLY DECOMPRESS ONE AT A TIME!")
+                    ui.label(RichText::new("Click the 'Select Game Files' button and select the NSZ/XCZ/NCZ files. YOU CAN ONLY DECOMPRESS ONE AT A TIME!")
                         .color(Color32::YELLOW));
                     ui.add_space(5.0);
-                    ui.label(RichText::new("Click Decompress").color(Color32::YELLOW));
+                    ui.label(RichText::new("Click Start Decompression").color(Color32::YELLOW));
                     ui.add_space(5.0);
-                    ui.label("Entering a output game name will not do anything for the NSZ decompression. You can ignore it.");
+                    ui.label("Entering a output game name will not do anything for the decompressionportion. You can ignore it.");
                     ui.add_space(5.0);
                     ui.label(RichText::new("The completed file will remain in the same location as the original NSZ files.")
                         .color(Color32::GREEN));
                     ui.add_space(5.0);
                     ui.separator();
                     ui.add_space(5.0);
-                    ui.label("Make sure to have your prod.keys in the correct location. Refer to the README for more info."); 
+                    ui.label("Make sure to have your prod.keys in the correct location (the root folder to this project). Refer to the README for more info."); 
                 },
             );
 
             ui.add_space(5.0);
 
             // NSZ Decompression Button
-            if ui.button("Start NSZ Decompression").clicked() {
+            if ui.button("Start Decompression").clicked() {
                 let decompress_done = Arc::new(Mutex::new(false));
                 let decompress_done_clone = Arc::clone(&decompress_done);
 

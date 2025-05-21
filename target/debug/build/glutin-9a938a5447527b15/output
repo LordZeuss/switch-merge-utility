@@ -1,0 +1,3 @@
+cargo:rustc-cfg=macos_platform
+cargo:rustc-cfg=apple
+cargo:rustc-cfg=cgl_backend

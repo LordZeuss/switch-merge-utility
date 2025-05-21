@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-link-lib=dylib=System
+cargo:cc_args=-fblocks

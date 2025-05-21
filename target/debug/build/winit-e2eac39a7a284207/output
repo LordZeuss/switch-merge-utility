@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-cfg=macos_platform
+cargo:rustc-cfg=apple
