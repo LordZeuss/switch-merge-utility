@@ -183,7 +183,7 @@ impl eframe::App for MyApp {
                     ui.add_space(5.0);
                     ui.separator();
                     ui.add_space(5.0);
-                    ui.label("Make sure to have your prod.keys in the correct location (the root folder to this project). Refer to the README for more info."); 
+                    ui.label("Make sure to have your prod.keys in the correct location. Refer to the README for more info."); 
                 },
             );
 

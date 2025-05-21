@@ -94,14 +94,14 @@ You will need the _internal directory and the NSZ file in the same directory as 
 
 ## FAQ
 
-Q: Will this run on Intel based Macs?
-A: I'm not sure - don't have one to test. I know the precompiled binaries won't work, but you should be able to clone the repo and run it from rust natively and I believe it will work. It's not doing anything special under the hood.
+* Q: Will this run on Intel based Macs?
+    * A: I'm not sure - don't have one to test. I know the precompiled binaries won't work, but you should be able to clone the repo and run it from rust natively and I believe it will work. It's not doing anything special under the hood.
 
-Q: Will this run on M series Macs?
-A: Yes. I built this program primarily for my M3 Macbook, however it will run on all M series silicon Macs.
+* Q: Will this run on M series Macs?
+    * A: Yes. I built this program primarily for my M3 Macbook, however it will run on all M series silicon Macs.
 
-Q: Will this patch NSP/XCI File Updates?
-A: No. There is some magic that other tools use that I haven't figured out how it works. This tool is primarily for taking split files and merging it into complete file.
+* Q: Will this patch NSP/XCI File Updates?
+    * A: No. There is some magic that other tools use that I haven't figured out how it works. This tool is primarily for taking split files and merging it into complete file.
 
-Q: How does it work?
-A: I am essentially doing a copy command from multiple files into one new file. It's truly nothing special, I just wanted to make a UI for it and maybe someone will find it useful. More of a fun Rust project than anything.
+* Q: How does it work?
+    * A: I am essentially doing a copy command from multiple files into one new file. It's truly nothing special, I just wanted to make a UI for it and maybe someone will find it useful. More of a fun Rust project than anything.
