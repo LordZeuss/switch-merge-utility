@@ -26,7 +26,7 @@ xattr -dr com.apple.quarantine nsz
 
 **I don't want to do this:** Check out the section regarding running from source. This will work around the issue since you are compiling the program youself.
 
-## Compatability
+## Compatibility
 
 Current supported operating system(s):
 
